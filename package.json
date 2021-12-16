@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "parcel public/index.html --open",
+    "build": "parcel build public/index.html"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "parcel-bundler": "^1.9.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "utils": "^0.2.2",
+    "express": "^4.17.1"
+  }
+}
